@@ -19,6 +19,7 @@ Windows Server does not have Cortana, the Microsoft Store, Edge or Timeline. The
 The Windows Server is more expensive. A single license can cost between 500 and 6200 dollars. It is primarily made for businesses.
 <br>
 <br>
+
 ## Things I want to know more about
 <br>
 For larger businesses, are the maximums for a server easy to reach? Is it best practice to fill one of these servers to a certain percentage before using a second one? 
