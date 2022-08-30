@@ -18,16 +18,16 @@ If yor are not part of domain you could be part of a workgroup. The main differe
 # DNS Attack Typs
 <br>
 
-<li>
-<ol> DNS Cache Poisoning Attack </ol>
-<ol> Distributed Reflection Denial of Service (DRDoS) </ol>
-<ol> DNS Hijacking </ol>
-<ol> Phantom Domain Attack </ol>
-<ol> TCP SYN Floods </ol>
-<ol> Random Subdomain Attack </ol>
-<ol> DNS Tunneling </ol>
-<ol> DNS Flood Attack </ol>
-<ol> Domain Hijacking </ol>
-<ol> Botnet-based Attacks </ol>
-</li>
+<ol>
+<li> DNS Cache Poisoning Attack </li>
+<li> Distributed Reflection Denial of Service (DRDoS) </li>
+<li> DNS Hijacking </li>
+<li> Phantom Domain Attack </li>
+<li> TCP SYN Floods </li>
+<li> Random Subdomain Attack </li>
+<li> DNS Tunneling </li>
+<li> DNS Flood Attack </li>
+<li> Domain Hijacking </li>
+<li> Botnet-based Attacks </li>
+</ol>
 
