@@ -4,3 +4,5 @@ Reading Notes for Cybersecurity and Ops 301D
 [Reading 01](https://github.com/DeanWeiss/reading-notes-301d/blob/main/Reading_01.md)
 <br>
 [Reading 02](https://github.com/DeanWeiss/reading-notes-301d/blob/main/Reading_02.md)
+<br>
+[Reading 03>(https://github.com/DeanWeiss/reading-notes-301d/blob/main/Reading_03.md)
