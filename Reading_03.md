@@ -10,7 +10,7 @@ Active directory is made up of several different directory services:
 <li> Active Directory Certificate Services (AD CS) – for issuing and managing digital security certificates. </li>
 <li> Active Directory Federation Services (AD FS) – for sharing identity and access management information across organizations and enterprises. </li>
 <li> Active Directory Rights Management Services (AD RMS) – for information rights management (controlling access permissions to documents, workbooks, presentations, etc.) </li>
-<ol>
+</ol>
 Fundamental AD features and capabilities include:
 <ol>
 <li> A schema that defines the classes of objects and attributes contained in the directory. </li>
