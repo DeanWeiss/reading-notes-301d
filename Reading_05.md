@@ -5,4 +5,9 @@ Dean Weiss<br>
 
 Patch Tuesday occurs on the second Tuesday of each month, it is when Microsoft pushes out its large update patches. They do such things as release their security vulnerabilities updates. Its purpose is to make things as predictable as possible for administrators.
 <br>
+<br>
 The average Windows PC checks for updates about once a day and should recieve these automatically. Microsfot calls Patch Tuesday 'B' Updates because they release on the second week of each month.
+<br>
+<br>
+## Things I want to know more about
+This seems pretty straight forward, a short article. 
