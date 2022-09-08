@@ -27,6 +27,8 @@ Intel PRO/1000 MT Desktop (82540EM). This adapter works perfectly with Windows V
 <br>  
 The industry standard virtIO networking drivers are supported by VirtualBox. VirtIO networking drivers are a part of the KVM project and are open-source. These drivers are available for Linux with kernel 2.6.25 or later, and Windows including older versions such as Windows 2000, XP and Vista.
 <br>
+<br>
+  
 #### Jumbo frames support
 VirtualBox provides limited support for jumbo frames (Ethernet frames that can carry packets which size is more than 1,500 bytes). If you need to use jumbo frames, select an Intel virtualized network adapter, and configure that adapter to work in bridged mode. AMD-based virtual networks adapters don’t support jumbo frames. If you try to enable jumbo frames for AMD-based virtual network adapters, jumbo frames will be dropped silently for input and output traffic. Jumbo frames are disabled by default." - https://www.nakivo.com/blog/virtualbox-network-setting-guide/
 
