@@ -17,3 +17,32 @@ Dean Weiss <br>
   <li> Closed, Not Listening: The computer responds that the port is not open at this time. </li>
   <li> Filtered, Dropped, Blocked: The computer doesn't even bother to respond. </li>
 </ol>
+<br>
+<p> Port scanners occur early in the cyber kill chain, during reconnassiance and intrusion. Attackers will use port scans to detect targets with open and unused ports that they can repurpose for infilitration, command and control, and data exfiltration or discover what applications run on that computer to exploit a vulnerability in that application. </p>
+
+## Port Scanning Techniques
+<ul>
+  <li> Ping Scan: The simplest scan, a ping scan looks for any ICMP replies indicating if a target is alive. </li>
+  <li> TCP Half Open: A fast and common scan that requests an ACK packet from a computer. Also called a SYN scan. </li>
+  <li> TCP Connect: Similiar to the TCP Half Open scan, but the TCP Connect scan completes the TCP connection.</li>
+  <li> UDP: Slower than a TCP scan, a UDP scan works best when you send a specific payload to a target, such as a DNS request.</li>
+  <li> Stealth Scanning: Quiet and unobvious, stealth scanning is commonly used by hackers for this reason.</li>
+  <li> TCP ACK scan: To map firewall rulesets.</li>
+  <li> TCP Window Scan: Can differentiate open ports from closed ports but only works on a minority of systems.</li>
+  <li> -scanflags: For the advanced user that wants to send their custom TCP flags in a scan, you can do that in Nmap.</li>
+</ul>
+
+<p> Some available tools for port scanning; Nmap, Solarwinds Port Scanner, Netcat, Advanced Port Scanner, NetScan Tools. </p>
+
+## How to Detect a Port Scan
+<p> You can use a dedicated port scan detector software application, like PortSentry or Scanlogd.  Netcat includes port scanning functionality as well as the ability to create a simple chat server or program different packets for testing purposes. 
+
+Intrusion Detection Systems (IDS) are another way to detect port scans. You need one that uses a wide variety of rules to detect various kinds of port scans that aren't merely threshold-based.
+</p>
+
+
+
+
+
+
+source: https://www.varonis.com/blog/port-scanning-techniques
