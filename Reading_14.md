@@ -9,6 +9,7 @@ Dean Weiss <br>
 ## What is a Port?
 <p> A port is a virtual location where networking communication starts and ends. There are two kinds of ports on each computer. 65,536 each for a toal of 131,082 network ports. TCP and UDP. Each computer has an IP address, which is how the network knows which computer to send packets to. If you send a packet to the IP address, the computer knows what port to route this packet to based on the application or packet contents. Each service running on a computer needs to 'listen' on a designated port.</P>
 <p> The first 1023 TCP ports are the well-known ports reserved for applications like FTP(21), HTTP(80) or SSH(22) and the Internet Assigned Numbers Authority (IANA) reserves these points to keep them standardized. TCP ports 1024-49151 are available for use by service or applications, and you can register them with IANA, so they are considered semi-reserved. Ports 49152 and higher are free to use.</p>
+
 ## Port Scanner Basics.
 <p> A port scanner sends a TCP or UDP network packet and asks the port about their current status. There are three options.</p>
 <ol>
