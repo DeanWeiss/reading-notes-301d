@@ -40,9 +40,8 @@ Dean Weiss <br>
 Intrusion Detection Systems (IDS) are another way to detect port scans. You need one that uses a wide variety of rules to detect various kinds of port scans that aren't merely threshold-based.
 </p>
 
-
-
-
+## Why Should You Run a Port Scan?
+<p> The best reason why is to detect vulnerabilities that attackers might exploit. It is better to be proactive than reactive. Running a port scan without authorization can be considered an aggressive action, if you are on a shared network, you might scan a system which isn't under your control, which isn't good. </p>
 
 
 source: https://www.varonis.com/blog/port-scanning-techniques
